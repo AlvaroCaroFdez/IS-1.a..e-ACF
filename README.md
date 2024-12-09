@@ -1,5 +1,7 @@
 # IS-1.a..e-ACF
 
+![portada](portada.png)
+
 # ÍNDICE
 - [¿Qué te ha parecido los temas tratados?](#qué-te-ha-parecido-los-temas-tratados)
 - [¿Qué te ha parecido más útil para tu futuro puesto de trabajo en un equipo de seguridad?](#qué-te-ha-parecido-más-útil-para-tu-futuro-puesto-de-trabajo-en-un-equipo-de-seguridad)
